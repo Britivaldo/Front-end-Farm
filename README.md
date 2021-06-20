@@ -18,7 +18,7 @@ Pré-requisitos: npm || yarn
 git clone https://github.com/Britivaldo/Front-end-Farm.git
 
 # entrar na pasta do projeto front end web
-cd api_farm
+cd Front-end-Farm
 
 # instalar dependências
 yarn install 
