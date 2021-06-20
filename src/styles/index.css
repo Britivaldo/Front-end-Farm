@@ -1,0 +1,48 @@
+* {
+    font-family: sans-serif;
+}
+input, select {
+    
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.btn {
+    display: flex;
+    padding: 10px 0 15px 0;
+    justify-content: space-between;
+}
+.editar{
+    width: 70px;
+}
+
+button {
+    width: 200px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+section {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+table {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    text-align: justify;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+td {
+    padding: 20px 0px 20px 0px;
+}
